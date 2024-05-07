@@ -1,7 +1,7 @@
 import requests
 
-GOOGLE_SHEETS_API = "https://api.sheety.co/eb9797a455434c4908c4c79bd8c8b1e7/flightDeals/prices"
-GOOGLE_SHEETS_TOKEN = "Basic bmJyYW5kOk5lcmQxMjM0"
+GOOGLE_SHEETS_API = "Your_Google_Sheet"
+GOOGLE_SHEETS_TOKEN = "Your_Google_Sheet_Token"
 google_headers = {
     "Authorization": GOOGLE_SHEETS_TOKEN
 }
