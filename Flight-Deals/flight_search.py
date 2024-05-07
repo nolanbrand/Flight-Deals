@@ -1,7 +1,7 @@
 from amadeus import Client
 
-FLIGHT_API_KEY = "LvkIc54Cy1uWzCSfmsfTg2UnF3zsKPQA"
-FLIGHT_API_SECRET = "LL6QazOod5iNvFEQ"
+FLIGHT_API_KEY = "Your_Amadeus_Flight_Key"
+FLIGHT_API_SECRET = "Your_Amadeus_API_Secret"
 
 
 class FlightSearch:
